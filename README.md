@@ -17,6 +17,7 @@ Make an OpenAI account [here](https://platform.openai.com/) and then generate an
   - Lecture Video is [here](https://www.dataexpert.io/lesson/machine-learning-day-1-lecture-v4)
   - Lab Video is [here](https://www.dataexpert.io/lesson/machine-learning-day-1-lab-v4)
 - Day 4 (Creating ZachGPT with RAG)
+  - Vector Database Repo [here](https://github.com/DataExpert-io/vector-database-example)
   - Lecture Video is [here](https://www.dataexpert.io/lesson/machine-learning-day-2-lecture-v4)
   - Lab Video is [here](https://www.dataexpert.io/lesson/machine-learning-day-2-lab-v4)
 
@@ -58,3 +59,14 @@ Running `pg_restore` with your local database should get you up and running pret
 
 - example command, assuming you got Postgres up and running either via Homebrew or Docker:
  - `pg_restore -h localhost -p 5432  -d postgres -U <your laptop username> halo_data_dump.dump`
+
+## Day 3 Lab
+
+This lab leverages this [repo](https://github.com/DataExpert-io/auto-feedback-example)
+
+## Day 4 Lab
+You'll need to get a [Pinecone](https://www.pinecone.io) account and API key. This lab leverages this [repo](https://github.com/DataExpert-io/vector-database-example)
+
+Add it to the environment `export PINECONE_API_KEY=<your pinecone API key>`
+
+
