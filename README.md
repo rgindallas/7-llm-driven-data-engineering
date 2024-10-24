@@ -19,7 +19,19 @@ Store the API key as an environment variable like:
 `export OPENAI_API_KEY=<your_api_key>`
 Or set it in Windows
 
-Run the command `pip install -r requirements.txt` to get the OpenAI and Pandas libraries
+The easiest way to install the dependencies is uv. [Install](https://docs.astral.sh/uv/getting-started/installation/) it.
+
+Run the command `uv sync` to install the python environment and all of the libraries under `.venv` folder.
+
+You should configure your IDE to select the interpreter under the .venv folder, or activate it through the command on your terminal:
+```sh
+source .venv/bin/activate
+```
+
+PS: If you don't want to use uv, run
+```sh
+pip install .
+```
 
 ## Day 1 Lab
 

@@ -32,7 +32,7 @@ user_prompt = f"""
 print(system_prompt)
 print(user_prompt)
 
-response = openai.ChatCompletion.create(
+response = openai.chat.completions.create(
     model="gpt-4",
     messages=[
         {"role": "system", "content": system_prompt},
