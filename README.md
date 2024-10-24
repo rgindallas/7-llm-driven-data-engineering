@@ -7,11 +7,19 @@ Make an OpenAI account [here](https://platform.openai.com/) and then generate an
 - You will need to supply a credit card but you will also get $5 in free credit which is more than enough for this lab and tomorrow's lab.
 
 The live Zoom classes will be held here:
-- [Day 1 (LLM-driven data engineering)](https://us06web.zoom.us/meeting/register/tZ0pcuqppjopHNFyy-G52Hh2jKdRlePT66oe#/registration)
-  - Lecture Video is [here](https://www.dataengineer.io/course/large-language-models-day-1-lecture)
-  - Lab video is [here](https://www.dataengineer.io/course/large-language-models-day-1-lab)
-- [Day 2 (LLM dev with LangChain)](https://us06web.zoom.us/meeting/register/tZYude6grj8pEt23y6J1rhHcXL2ytMX8IRzy#/registration)
-
+- Day 1 (LLM-driven data engineering
+  - Lecture Video is [here](https://www.dataexpert.io/lesson/large-language-models-day-1-lecture)
+  - Lab video is [here](https://www.dataexpert.io/lesson/large-language-models-day-1-lab)
+- Day 2 (LLM dev with LangChain)
+  - Lecture Video is [here](https://www.dataexpert.io/lesson/large-language-models-day-2-lecture)
+  - Lab Video is [here](https://www.dataexpert.io/lesson/large-language-models-day-2-lab)
+- Day 3 (Using LLM to provide business value)
+  - Auto Feedback Repo [here](https://github.com/DataExpert-io/auto-feedback-example)
+  - Lecture Video is [here](https://www.dataexpert.io/lesson/machine-learning-day-1-lecture-v4)
+  - Lab Video is [here](https://www.dataexpert.io/lesson/machine-learning-day-1-lab-v4)
+- Day 4 (Creating ZachGPT with RAG)
+  - Lecture Video is [here](https://www.dataexpert.io/lesson/machine-learning-day-2-lecture-v4)
+  - Lab Video is [here](https://www.dataexpert.io/lesson/machine-learning-day-2-lab-v4)
 
 ## Setup
 
