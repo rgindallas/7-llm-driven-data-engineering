@@ -3,8 +3,7 @@
 ## Getting Started
 
 Make an OpenAI account [here](https://platform.openai.com/) and then generate an API Key.
-
-- You will need to supply a credit card but you will also get $5 in free credit which is more than enough for this lab and tomorrow's lab.
+For Day 4, you'll need a [Pinecone](https://www.pinecone.io) account and API key. 
 
 - Day 1 (LLM-driven data engineering
   - Lecture Video is [here](https://www.dataexpert.io/lesson/large-language-models-day-1-lecture)
@@ -65,7 +64,7 @@ Running `pg_restore` with your local database should get you up and running pret
 This lab leverages this [repo](https://github.com/DataExpert-io/auto-feedback-example)
 
 ## Day 4 Lab
-You'll need to get a [Pinecone](https://www.pinecone.io) account and API key. This lab leverages this [repo](https://github.com/DataExpert-io/vector-database-example)
+This lab leverages this [repo](https://github.com/DataExpert-io/vector-database-example)
 
 Add it to the environment `export PINECONE_API_KEY=<your pinecone API key>`
 
