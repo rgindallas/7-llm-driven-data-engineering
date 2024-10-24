@@ -6,7 +6,6 @@ Make an OpenAI account [here](https://platform.openai.com/) and then generate an
 
 - You will need to supply a credit card but you will also get $5 in free credit which is more than enough for this lab and tomorrow's lab.
 
-The live Zoom classes will be held here:
 - Day 1 (LLM-driven data engineering
   - Lecture Video is [here](https://www.dataexpert.io/lesson/large-language-models-day-1-lecture)
   - Lab video is [here](https://www.dataexpert.io/lesson/large-language-models-day-1-lab)
@@ -44,7 +43,6 @@ pip install .
 ## Day 1 Lab
 
 We'll be using the schemas from Dimensional Data Modeling Week 1 and generating the queries from the homework and labs except this time we'll do it via LLMs
-
 
 ## Day 2 Lab
 
