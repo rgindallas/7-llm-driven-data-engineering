@@ -7,11 +7,10 @@ People
 - [Chip Huyen](https://www.linkedin.com/in/chiphuyen/)
 - [Zach Wilson](https://www.linkedin.com/in/eczachly)
 
-Companies
-- [AdalFlow](https://www.linkedin.com/company/adalflow)
-- [LangChain](https://www.linkedin.com/company/langchain)
-- [LlamaIndex](https://www.linkedin.com/company/llamaindex)
-- [Pinecone](https://www.pinecone.io) 
+Libraries
+- [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow)
+- [LangChain](https://github.com/langchain-ai/langchain)
+- [LlamaIndex](https://github.com/run-llama/llama_index)
 
 ## Getting Started
 
