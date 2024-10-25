@@ -1,5 +1,18 @@
 # LLM-driven Data Engineering
 
+## Accounts to Follow
+
+People
+- [Li Yin](https://www.linkedin.com/in/li-yin-ai)
+- [Chip Huyen](https://www.linkedin.com/in/chiphuyen/)
+- [Zach Wilson](https://www.linkedin.com/in/eczachly)
+
+Companies
+- [AdalFlow](https://www.linkedin.com/company/adalflow)
+- [LangChain](https://www.linkedin.com/company/langchain)
+- [LlamaIndex](https://www.linkedin.com/company/llamaindex)
+- [Pinecone](https://www.pinecone.io) 
+
 ## Getting Started
 
 Make an OpenAI account [here](https://platform.openai.com/) and then generate an API Key.
