@@ -34,6 +34,8 @@ For Day 4, you'll need a [Pinecone](https://www.pinecone.io) account and API key
 
 ## Setup
 
+This project use [PostgreSQL](https://www.postgresql.org/download/macosx/)
+
 Store the API key as an environment variable like:
 `export OPENAI_API_KEY=<your_api_key>`
 Or set it in Windows
